@@ -1,0 +1,9 @@
+[db]
+data-source = "postgres://koyeb-adm:hX3sJA9MybzU@ep-crimson-sunset-a2uo3wm9.eu-central-1.pg.koyeb.app/koyebdb"
+
+[jwt]
+secret = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+
+[tg]
+app-id = 27885485
+app-hash = "7dd9974c713787410beae4a295cc1e2d"
